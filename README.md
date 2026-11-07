@@ -1,14 +1,14 @@
 # AI Language Translation Tool
 
-An intelligent, production-ready web application built for the **CodeAlpha Artificial Intelligence Internship** program. The application translates text seamlessly across 15+ global and Indian languages using modern REST backend architecture, secure environment configuration, and a sleek, responsive interface.
+An intelligent, production-ready web application built for an **Artificial Intelligence Internship** program. The application translates text seamlessly across 15+ global and Indian languages using modern REST backend architecture, secure environment configuration, and a sleek, responsive interface.
 
 ---
 
-## 📌 CodeAlpha Internship Task Reference
+## 📌 Internship Task Reference
 
 - **Domain:** Artificial Intelligence / Machine Learning
 - **Project Name:** AI Language Translation Tool
-- **Repository Name:** `CodeAlpha_LanguageTranslationTool`
+- **Repository Name:** `LanguageTranslationTool`
 - **Task Description:** Develop a functional, clean, professional, responsive, and easy-to-run web-based language translation application using Python Flask, HTML5, CSS3, JavaScript, and a real translation API service.
 
 ---
@@ -143,7 +143,7 @@ If `TRANSLATION_API_KEY` is left blank in `.env`, the tool automatically routes 
 ## 📁 Project Structure
 
 ```
-CodeAlpha_LanguageTranslationTool/
+LanguageTranslationTool/
 │
 ├── app.py                  # Main Flask application and translation routes
 ├── requirements.txt        # Python package dependencies
@@ -169,8 +169,8 @@ Follow these exact steps to run the application on Windows:
 ### 1. Clone or Extract the Repository
 Open PowerShell or Command Prompt:
 ```cmd
-git clone https://github.com/your-username/CodeAlpha_LanguageTranslationTool.git
-cd CodeAlpha_LanguageTranslationTool
+git clone https://github.com/your-username/LanguageTranslationTool.git
+cd LanguageTranslationTool
 ```
 
 ### 2. Create a Python Virtual Environment
@@ -283,10 +283,9 @@ python3 app.py
 
 ## 👤 Author
 
-- **Intern:** CodeAlpha AI Intern
+- **Role:** AI Intern
 - **Task:** AI Language Translation Tool
 - **Track:** Artificial Intelligence Internship
-- **Organization:** CodeAlpha
 
 ---
 
